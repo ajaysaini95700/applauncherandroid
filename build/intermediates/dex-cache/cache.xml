@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_349ba29a4a4b54a788ae731f0e329a29c55e31a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a851b03dc527819fb218e82f7c0611a298acac9c">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6fda13a26947c84dd7fed54328afed5292ad7d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_48bfb8490dc200c49670d2b11c0871cefa0b375d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_e9c11dcd310f934000fb30820f5235646f6f60b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7570e2e2285591997f9678c323150e80b43aef92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c536f33abbfff43de13d5a0d69398f0b751f9be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_e6ac753dafc8c2d03b83051ec923b23e0f11a8a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a0b8881fccf627d5bd67dac69d02c0d8a7321a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1f77199c82583258cbed0a73e4448d64235d9a3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_b7f2065117405496c856a64a5d49ad8a26c986c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a403620e6cf574d3da81d1e47101545fb2152141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a2840fb162751ae9a6804946de5d867476fae801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_95d164dcf750474adf78e4fb7645da56f8925e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_7b0cb43e383e216365f1500c61799affa5c09465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_84b7472cecb29f89a21efba11744a49e69efd518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a41d46dacbe5af086a3874a14fa411fc7f8fe12d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84e1a32868323dbf7d212b4d083acb29a38e6d0b">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5265b46829f2fc00d0fe535ff71e67c958fc807b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_59cdfec4da38d6f4c4cf396b6b1930d6b624881d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="507b39e580bb6d2cc6fb1bb2a329c51e10b70629">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_635f983c3fe8cfb042c12c24c913b8d6baa7a844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_ff3f3029fbb5b644a54a06b950d011b26f8bac77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_37d49cb7b98fecc0c17089554c2f79090e58fd3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_c8acbb6cdde1366bc6d49ed332303125f6dcc611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_24de0eb6bbaa680d435b4eb1340ff3b5bccd0374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_16c24b00201380cb192ef15059ef1c9aeb71abfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_927803daf846598ca9baf41c03c5edfe09df0f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_0f477615792776ed20519f49dabf1ef8486d024f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fb88d5896059830d406a95e8708461dc01b382a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_c764ed256ffbc632f78fac051ae0267e452f7498/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f503c4706c0f9940a84a3ab962d143129362a9d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_ca8406bb9a53626c15ef57d420bf1eaf656410f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/azri/AndroidStudioProjects/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_f14a48203a6162d188eea1d1eb3d44b6a8cc979f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c38ff40cfeb6db57ed6f91837b6ad979a040f05">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_758c854bb8eecbbdd50c4071a699fb1a9990d608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/azri/Downloads/AppLauncher/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/azri/Downloads/AppLauncher/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7c0ff1f3e0dbdf9510d6bd907e3a61be31089053/classes.dex" />
+    </item>
+
+</items>

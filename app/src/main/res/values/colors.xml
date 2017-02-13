@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGreenDark">#409c48</color>
+    <color name="colorGreenLight">#43a64c</color>
+    <color name="colorPrimary">#4ab654</color>
+    <color name="colorPrimaryDark">#25bc33</color>
+    <color name="errorcolor">#ff4081</color>
+    <color name="colorAccent">#25bc33</color>
+    <color name="colorPrimaryTrans">#72dc7c</color>
+    <color name="red">#f44336</color>
+    <color name="redPrimaryTrans">#ef9a9a</color>
+    <color name="white">#FFFFFF</color>
+</resources>
